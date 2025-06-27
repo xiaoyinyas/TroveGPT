@@ -32,7 +32,7 @@ Mothao,小冷,FFC0CB,;
 _YIYI_,伊伊,ff1cae,;
 xiaokd6,小伊,ff44aa,;
 qing_jiu_zhe_wen,清酒澈温,,;
-Yalooo,<font color=\"#ff0080\">无糖<font color=\"#ffffc0\">小马,,;
+Yalooo,<font color=\"#ff0080\">无糖</font><font color=\"#ffffc0\">小马</font>,,;
 lenglin,冷澪,ffff00,;
 mangsemg,枫原万叶,ffd700,;
 Rui_,寸寸,aaaaaa,;
