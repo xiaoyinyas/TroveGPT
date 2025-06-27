@@ -50,3 +50,4 @@ jntothedeep,碧琪,ffe0f5,;
 |
 玩家id,可疑称号,原因;
 ndxbb,严重诈骗犯,多次诈骗;
+_luoxiaohei,被盗号,被盗号了;
