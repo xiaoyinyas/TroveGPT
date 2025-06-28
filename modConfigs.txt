@@ -40,7 +40,7 @@ cheye,彻夜,,;
 bilibilionly,流萤,,;
 jntothedeep,碧琪,ffe0f5,;
 SeriousChenWuji,正经的陈乌鸡,ffc0cb,;
-lbaynaln,鲁布lbaynaln,00FFFF,;
+lbaynaln,鲁布lbaynaln,FFB7C5,;
 |
 敏感号码,原因;
 2304019942,发现卖号找回号码;
