@@ -39,6 +39,7 @@ Juice_Lucky,曹家二狗,00ff00,;
 cheye,彻夜,,;
 bilibilionly,流萤,,;
 jntothedeep,碧琪,ffe0f5,;
+SeriousChenWuji,正经的陈乌鸡,ffc0cb,;
 |
 敏感号码,原因;
 2304019942,发现卖号找回号码;
