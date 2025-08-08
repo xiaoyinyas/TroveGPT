@@ -1,4 +1,4 @@
-v31版本-去模组群756648258，下载高级聊天更新器v1，更快的更新不用等一天！
+v31.1增加了几个新的中文id和诈骗犯
 |
 原id,改id,颜色,称号;
 AAAAADD,啊门,,;
@@ -53,6 +53,17 @@ Rustwise,蚀彗,bb5500,;
 Kn_fast,天道总司,ff1493,;
 _SyruoLi_,若璃,ff0099,;
 discake,切糕,,;
+Uu_SAlAs_uU,游瑜鱿鱼油,,;
+_MoFeath_,陌羽归兮,ffd700,;
+lao_,天真,b8860b,;
+zcxysad,林夕辰,fffacd,;
+Chickenitching,（最強の丁真純一郎）,random,;
+ShuangYu,落本樱,CC00CC,;
+DawnchOVO,吉米,ff4777,;
+minebugz,_Mine,ff7744,;
+Xiao_xulian,戎葵,66ffff,;
+_SyruoLi_,若漓,00ffff,;
+Kn_fast,天道总司,ff1493,;
 |
 敏感号码,原因;
 2304019942,发现卖号找回号码;
