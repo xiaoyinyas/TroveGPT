@@ -72,6 +72,11 @@ AMBER77,安啵,,;
 bilibili_xiaoxi,小西,,;
 DongXiang,Dog酱,9900FF,;
 Thexinghui,星辉,,;
+yubulin,一条闲鱼,,;
+Sad_Patato,伤心的番薯,,;
+xiaolele,小乐,FFC0CB,;
+wdnmmd,发如雪,,;
+Vendetta_Viper,小青,,;
 |
 敏感号码,原因;
 2304019942,发现卖号找回号码;
@@ -81,6 +86,10 @@ Thexinghui,星辉,,;
 17688867519,付一半专业骗子;
 3087873263,检测到盗窃工会箱子的qq;
 3831726973,检测到诈骗原晶的qq;
+1148226502,检测到偷菜的qq;
+3380665776,检测到诈骗原晶的qq;
+2388959803,检测到盗窃工会箱子的qq;
+1707757715,检测到盗窃工会箱子的qq;
 |
 玩家id,可疑称号,原因;
 ndxbb,严重诈骗犯,多次诈骗;
@@ -88,4 +97,8 @@ _luoxiaohei,被盗号,被盗号了;
 Betrayto,盗窃犯,偷盗工会箱;
 mzyzq,盗窃犯,偷盗工会箱;
 xyix160,偷菜,多收作物;
-
+dongfengpopo,偷菜,多收作物;
+HTMLCC,盗窃犯,偷盗工会箱;
+guaixiaobai,诈骗,砸马没丢马;
+Baiovo,诈骗犯,买原、代肝未付款跑路;
+dingzheng255,诈骗犯,教唆别人洗箱子 骗萌新号 骂人;
