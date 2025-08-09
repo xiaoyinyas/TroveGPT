@@ -77,6 +77,7 @@ Sad_Patato,伤心的番薯,,;
 xiaolele,小乐,FFC0CB,;
 wdnmmd,发如雪,,;
 Vendetta_Viper,小青,,;
+_JR_,_JR_小玖,ff00ff,;
 |
 敏感号码,原因;
 2304019942,发现卖号找回号码;
