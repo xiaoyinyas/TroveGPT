@@ -78,8 +78,8 @@ wdnmmd,发如雪,F8F8FF,;
 Vendetta_Viper,小青,,;
 _JR_,_JR_小玖,ff00ff,;
 mipu1,米铺,FFFFCD,;
-FeiWen,绯闻,A4B2E0,;
-kacy_,绯闻,4B0082,;
+FeiWen,绯闻,4B0082,;
+kacy_,大肘子,A4B2E0,;
 qftal,sky的王秋风,4B0082,;
 |
 敏感号码,原因;
