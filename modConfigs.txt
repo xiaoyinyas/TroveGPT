@@ -108,4 +108,5 @@ dongfengpopo,偷菜,多收作物;
 HTMLCC,盗窃犯,偷盗工会箱;
 guaixiaobai,诈骗,砸马没丢马;
 Baiovo,诈骗犯,买原、代肝未付款跑路;
+JIUYUESHUA,盗窃犯,偷盗工会物品;
 dingzheng255,诈骗犯,教唆别人洗箱子 骗萌新号 骂人;
