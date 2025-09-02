@@ -104,7 +104,7 @@ xiaoxiaotongxue,王小桃,ffc0cb,;
 xiaowanting,王小绿,7cfc00,;
 wangxiaotao,才羽桃井,ff1493,;
 _nianLun_,晨晨大王,9999ff,;
-Wang_yuan,芙蓉王源,,;
+Wang_yuan,芙蓉王源,cc6633,;
 Nebula00001,南山鹤,ffff00,;
 zhescd,无念,00ffff,;
 _LiGoHai_,东北雨姐初恋男友,random,;
