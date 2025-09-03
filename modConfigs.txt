@@ -1,4 +1,4 @@
-v31.2
+v31.3
 增加了几个新的中文id和诈骗犯
 修复了一些id的颜色错误
 |
@@ -68,7 +68,8 @@ Kn_fast,天道总司,ff1493,;
 XiaHa,虾滑,ff6699,;
 dream_roikua,杭缘大大大,00ff00,;
 M_UUUUUUY,沐,0000ff,;
-S_P_A,春九,ff7f00,;
+S_P_A,春九,,;
+_S_P_A_,春九,ff7f00,;
 AMBER77,安啵,,;
 bilibili_xiaoxi,小西,,;
 DongXiang,Dog酱,9900FF,;
@@ -104,7 +105,7 @@ xiaoxiaotongxue,王小桃,ffc0cb,;
 xiaowanting,王小绿,7cfc00,;
 wangxiaotao,才羽桃井,ff1493,;
 _nianLun_,晨晨大王,9999ff,;
-Wang_yuan,芙蓉王源,cc6633,;
+Wang_yuan,芙蓉王源,,;
 Nebula00001,南山鹤,ffff00,;
 zhescd,无念,00ffff,;
 _LiGoHai_,东北雨姐初恋男友,random,;
@@ -135,3 +136,4 @@ guaixiaobai,诈骗,砸马没丢马;
 Baiovo,诈骗犯,买原、代肝未付款跑路;
 dingzheng255,诈骗犯,教唆别人洗箱子 骗萌新号 骂人;
 wxhgby,拆工会,偷拆公会建筑;
+SBnb666,偷菜,多吃混沌然后跑路;
