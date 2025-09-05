@@ -111,6 +111,7 @@ zhescd,无念,00ffff,;
 _LiGoHai_,东北雨姐初恋男友,random,;
 North_Korea,朝鲜第一巴图鲁,ff0000,;
 FishTrousers,鱼裤子,00ffff,;
+_QiuYe_,秋夜,ff6b6b,;
 |
 敏感号码,原因;
 2304019942,发现卖号找回号码;
