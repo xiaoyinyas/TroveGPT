@@ -79,7 +79,7 @@ Sad_Patato,伤心的番薯,,;
 xiaolele,小乐,FFC0CB,;
 wdnmmd,发如雪,F8F8FF,;
 Vendetta_Viper,小青,,;
-_JR_,小玖_JR_,,;
+_JR_,小玖_JR_,,回忆会长;
 mipu1,米铺,FFFFCD,;
 FeiWen,绯闻,FF8A80,;
 kacy_,大肘子,A4B2E0,;
