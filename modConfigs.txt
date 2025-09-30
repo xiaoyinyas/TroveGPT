@@ -137,7 +137,7 @@ cnmika,大米,ffff00,;
 junhuo,闇夜火君,008c8c,;
 ice_qingfeng,朱元璋,ff2400,;
 LOVEINXIA,天帝传说_虾神,ffc0cb,;
-kong_heigg,空黑,,;
+kong_heigg,空黑,808080,;
 bgm_0,不改名,e0ffff,;
 __BD__,Ciallo～(∠・ω< )⌒☆_大宝,ffd6e0,;
 Sorlar_Archer,异世界小吒吒,00ffff,;
@@ -157,7 +157,7 @@ wUne9,砚枫客,,;
 liyafei_,李亚菲i,,;
 _DongXiang_,董香,,;
 LunaMona,阿月,,;
-,,,;
+susuovo,苏苏,,七里香会长;
 |
 敏感号码,原因;
 2304019942,发现卖号找回号码;
