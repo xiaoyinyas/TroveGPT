@@ -1,4 +1,4 @@
-v31.3
+0v31.4
 增加了几个新的中文id和诈骗犯
 修复了一些id的颜色错误
 |
@@ -139,7 +139,7 @@ ice_qingfeng,朱元璋,ff2400,;
 LOVEINXIA,天帝传说_虾神,ffc0cb,;
 kong_heigg,空黑,808080,;
 bgm_0,不改名,e0ffff,;
-__BD__,Ciallo～(∠・ω< )⌒☆_大宝,ffd6e0,越过深秋;
+__DB__,Ciallo～(∠・ω< )⌒☆_大宝,ffd6e0,越过深秋;
 Sorlar_Archer,异世界小吒吒,00ffff,;
 8Mordekaiser8,西兰花,,;
 XinYiOvO,鑫忆OvO,,;
