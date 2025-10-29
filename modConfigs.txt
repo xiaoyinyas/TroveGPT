@@ -47,8 +47,6 @@ maomin9527,柚子猫,33FFFF,;
 manbomanbo,不见星空,FFFFFF,;
 wujiarui,软萌兔兔酱,F0BBFF,;
 YZB_KAKAXI,玩偶姐姐,FFC0CB,;
-_Gamigo_,Gamigo,00ff00,;
-_SuLe_,-Trove第一肝帝-,ffff00,;
 wokansannianji,花落,70db93,;
 Avang,阿旺,ee82ee,;
 Rustwise,蚀彗,bb5500,;
