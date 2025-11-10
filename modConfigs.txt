@@ -208,7 +208,7 @@ __Hui__,灰,,;
 ajduawh,_AiLa 艾拉,,温柔会长;
 beijicold,benjicold,,;
 A_Xuan_,阿轩,,;
-swordsandwalk,为老板,,宝藏第一人;
+swordsandwalk,为老板,,宝藏第一人,2;
 _Equ,牛牛,,;
 Xirry,昔乃,,元老玩家;
 naxvwei,纳虚伪,,;
