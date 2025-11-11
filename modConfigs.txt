@@ -5,7 +5,7 @@
 原id,改id,颜色,称号;
 xiaoyinya,小逸_nya,random,;
 lr_xun,红中老大,,;
-MewsCat,MewsCat,00ff00,かみおう,2;
+MewsCat,猫猫_MewsCat,00ff00,かみおう,2;
 AAAAADD,啊门,,;
 Artoria_KS,音金大王,random,;
 61121905,君愿知,,;
@@ -439,7 +439,7 @@ susuOvO,苏苏,,七里香会长;
 _Eria_,超级考拉,,糕手;
 _En,_En,,蛋总工作室;
 Antigone_,安提戈涅,,;
-CrySnowww,,不要下雨,;
+CrySnowww,CrySnowww,不要下雨,;
 _AiLa,艾拉_AiLa,温柔会长,;
 |
 敏感号码,原因;
