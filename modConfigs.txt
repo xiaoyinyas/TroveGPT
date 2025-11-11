@@ -1,6 +1,5 @@
-0v32.0
-增加了几个新的中文id和诈骗犯
-新增删了几个id
+0v33.0
+重新构建模组架构 - 增加了中文ID - 增加了Dard Core公会图标 - MewsCat修改
 |
 原id,改id,颜色,称号;
 xiaoyinya,小逸_nya,random,;
