@@ -1,5 +1,5 @@
 0v33.0
-修改模组架构 - 增加了中文ID - 增加了Dard Core公会图标 - MewsCat修改
+修改模组架构（暂未发布） - 增加了中文ID - 增加了一部分公会图标 - MewsCat修改
 |
 原id,改id,颜色,称号;
 xiaoyinya,小逸_nya,random,;
@@ -480,5 +480,4 @@ ThdRsd,卡工会,卡bug;
 weiguozhengguang,卡工会,卡bug;
 8Mordekaiser8,洗工会,洗工会箱;
 EmptyRipples,盗号,盗账号;
-Jacquelye,盗号,盗账号;
 Hippo0244,盗号,盗账号;
