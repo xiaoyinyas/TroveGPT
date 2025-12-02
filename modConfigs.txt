@@ -4,7 +4,7 @@
 原id,改id,颜色,称号;
 xiaoyinya,小逸_nya,random,;
 lr_xun,红中老大,,;
-MewsCat,猫猫_MewsCat,8CEF7A,规则之外,2;
+MewsCat,猫猫_MewsCat,8CEF7A,NO.RULES,2;
 AAAAADD,啊门,,;
 Artoria_KS,音金大王,random,;
 61121905,君愿知,,;
