@@ -1,4 +1,4 @@
-0v33.0
+0v33.1
 修改模组架构（暂未发布） - 增加了中文ID - 增加了一部分公会图标 - MewsCat修改
 |
 原id,改id,颜色,称号;
@@ -447,6 +447,7 @@ TaiZai_Zhi,太宰治,,;
 buxianxianbxx,不羡仙,fabcc7,;
 KZHDD,老k,ffd700,;
 san_su,木白,,;
+chen_Heavenly,炎帝,,;
 |
 失信QQ号码,原因;
 3151247474,该QQ号主曾经恶意拆除他人公会建筑;
