@@ -412,7 +412,6 @@ Tohsaka_Rin,远坂凛,B22222,;
 111q,久诚～Q,FF0000,;
 SANCHIZZZ,杜甫,7700ff,;
 LAOWUMING,WuMing_无名,,;
-changtai,常态,,爱而不得;
 Hang_King,小航QvQ,ffd700,;
 Demon_Zed,小航OvO,ffd700,;
 yunyi123,蕴意,ffff00,;
