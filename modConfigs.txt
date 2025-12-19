@@ -457,7 +457,7 @@ zhouyao,传奇爱人王周遥,ffd700,,;
 6ax5e,诺艾儿,ffc0cb,,;
 _QianYe_,好运的千叶,,,;
 _BengKui_,崩溃,,,;
-takebszy,takebszy,,景如画,;
+takebszy,Takebszy,,景如画,;
 ,,,,;
 |
 失信QQ号码,原因;
