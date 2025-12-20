@@ -183,7 +183,7 @@ MercuryU,大U,,;
 dstgfdsgf,熊猫,,;
 bilibili_moligod,莫离,,;
 HMS_Cheshire,柴郡柴郡柴,,;
-_ShuZhi_,树枳枳枳枳枳,,;
+_ShuZhi_,樹枳枳枳枳枳,,;
 mzaw123456,木子,,;
 _rainnight_,雨夜,,;
 _LingNai_,灵乃,,;
