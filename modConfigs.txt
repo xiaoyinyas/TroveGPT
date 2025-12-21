@@ -461,6 +461,7 @@ takebszy,Takebszy,,景如画,;
 dwdad6,邪恶猫猫头,87CEEB,,;
 zhousunyi,雨花,ff359A,,;
 JinMuY,云云云云云胡,F8FC00,,;
+GEFAN,暴龙战士,,;
 |
 失信QQ号码,原因;
 3151247474,该QQ号主曾经恶意拆除他人公会建筑;
