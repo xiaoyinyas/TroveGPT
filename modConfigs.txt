@@ -83,7 +83,6 @@ _JR_,小玖_JR_,,回忆会长;
 mipu1,米铺,FFFFCD,;
 FeiWen,绯闻,FF8A80,;
 kacy_,大肘子,A4B2E0,;
-moyuxianren,摸鱼仙人,33FFDD,;
 ZZkiko,雾子-Kiko,FFC0CB,;
 Hongmou,果冻,00ff00,;
 andeser,andeser,,摆~;
