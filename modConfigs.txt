@@ -463,7 +463,7 @@ JinMuY,云云云云云胡,F8FC00,,;
 GEFAN,剑来,random,;
 _Alie,安安_Alie,,白玉京会长;
 _Momonga,飞鼠,,Overlord,,;
-zhuerchongjiutong,猪儿虫酒桶,random,,;
+zhuerchongjiutong,猪儿虫酒桶,random,元老玩家,;
 liuyunxi17,小拾柒,,;
 Chjthebeauty,忘儿The Cold,7FA8B8,;
 Nesperadoss,辞夜,4d4def,;
