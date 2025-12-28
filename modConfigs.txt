@@ -53,7 +53,7 @@ Rustwise,蚀彗,bb5500,;
 Kn_fast,天道总司,ff1493,;
 _SyruoLi_,若漓,00ffff,;
 discake,切糕,,;
-Uu_SAlAs_uU,游瑜鱿鱼油,,;
+Uu_SAlAs_uU,游瑜鱿鱼油,,澄澄空明;
 _MoFeath_,陌羽归兮,ffd700,;
 lao_,天真,b8860b,;
 zcxysad,林夕辰,fffacd,;
