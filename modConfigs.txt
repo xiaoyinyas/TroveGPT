@@ -471,6 +471,7 @@ Yun_Jiu,云玖玖,ff69b4,;
 shylie,默鱼,,;
 QYun,秋雲,fff100,;
 dongdd,阴雨天,00ffff,;
+Alpacazuo,小左,,fn会长;
 |
 失信QQ号码,原因;
 3151247474,该QQ号主曾经恶意拆除他人公会建筑;
