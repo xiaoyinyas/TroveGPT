@@ -479,6 +479,7 @@ _luo_yu_,落羽,,阿鱼;
 smilence,唐琪琦,ff0099,;
 Xiamimimi,虾米快到碗里来,ffccff,;
 Yetier,柯南,,名侦探;
+supersnower,雪人,00bfff,;
 |
 失信QQ号码,原因;
 3151247474,该QQ号主曾经恶意拆除他人公会建筑;
