@@ -493,6 +493,7 @@ Chihaya_anon,千早爱音,ffc0cb,;
 LanmiOvO,星王,96cdcd,;
 ss06528,摘星,ff3399,;
 _Touchme,塔其米,,Overlord;
+Npponga,小晴,ff99cc,;
 |
 失信QQ号码,原因;
 3151247474,该QQ号主曾经恶意拆除他人公会建筑;
