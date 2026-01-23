@@ -424,7 +424,7 @@ _En,_En,,蛋总工作室;
 Antigone_,安提戈涅,,;
 CrySnowww,CrySnowww,,雪落之下,;
 _AiLa,艾拉_AiLa,,温柔会长,;
-Six_God,拾年,,六神会长,;
+Six_God,拾年,,,;
 _Wink_,Wink,,故事会长,;
 _Eria_,超级考拉,,糕手,;
 ChunRiQin,春日青,93DB70,;
