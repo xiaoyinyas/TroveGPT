@@ -502,7 +502,8 @@ Liliweiss,莉莉维斯,ffffff,;
 Mr__D__u__c__k,法克先生,,;
 ChangZhou,糟糕没有低保了,800080,;
 miaoneiga,文文,9f9f5f,;
-hiyuki_,_緋雪hiyuki_,ff0077,神乐钵;
+hiyuki_,_緋雪hiyuki_,ff0077,神乐钵会长;
+Spt_Laver,Spt_紫昼神穹,800080,;
 |
 失信QQ号码,原因;
 3151247474,该QQ号主曾经恶意拆除他人公会建筑;
