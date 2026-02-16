@@ -508,7 +508,7 @@ Changzhou,糟糕没有低保了,800080,;
 kydbyd1,空白,ffffff,;
 wwwzk,宁宁,ffff00,;
 Rdeamancy,佐助,9932cc,;
-AirTianZhao,晓骏,0000ff,;
+AirTianZhao,晓俊,0000ff,;
 KairosOvO,886,ffc0cb,;
 LCy07,永雏塔菲,ffb7c5,;
 yikusuika,益呼,0000ff,;
