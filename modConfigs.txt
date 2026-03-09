@@ -474,7 +474,7 @@ QYun,秋雲,fff100,;
 dongdd,阴雨天,00ffff,;
 Alpacazuo,小左,,fn会长;
 _SakiKo_,若叶睦,FFD700,Mortis;
-_Tomato,番茄,000000,恶龙;
+_Tomato_,番茄,000000,恶龙;
 _luo_yu_,落羽,,阿鱼;
 smilence,唐琪琦,ff0099,;
 Xiamimimi,虾米快到碗里来,ffccff,星晴月朗;
