@@ -427,7 +427,7 @@ _AiLa,艾拉_AiLa,,温柔会长,;
 Six_God,拾年,,,;
 _Wink_,Wink,,故事会长,;
 _Eria_,超级考拉,,糕手,;
-ChunRiQin,春日青,93DB70,;
+4111_X104,春日青,00ffff,;
 YANTAICC,研台aoty,b0e0e6,;
 Kysn3,雪吻,,;
 SANCHIZZZ,三池子,ffc0cb,;
