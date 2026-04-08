@@ -440,7 +440,7 @@ Light_memories,忆秋,F89801,;
 Voyager_,远旅,404088,;
 _Usotuki_,林嘘月,FFC0CB,;
 dabaieryyds,白鹅,ffc0cb,;
-Spark_Goose,渊岚,,未解风意;
+Spark_Goose,岚渊,,未解风意;
 TaiZai_Zhi,太宰治,,;
 buxianxianbxx,不羡仙,fabcc7,;
 KZHDD,老K,ffd700,;
