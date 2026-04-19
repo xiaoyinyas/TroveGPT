@@ -5,6 +5,12 @@
 xiaoyinya,小逸_nya,,;
 lr_xun,红中老大,,;
 MewsCat,MewsCat,,,2;
+Guessas,Player_林七,,;
+whjhhh,Nekros_祈屿,,;
+TREE64,大树,55AA00,;
+nikokoword78,跳弾,F2DEB9,;
+RPG4444,艾莉莎,00ffff,;
+Elysiaaaa,爱莉希雅,FF6EC7,;
 AAAAADD,啊门,,;
 Fsi,桃子,ffc0cb,;
 Artoria_KS,音金大王,random,;
