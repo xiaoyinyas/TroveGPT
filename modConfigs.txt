@@ -3,7 +3,8 @@
 |
 原id,改id,颜色,称号;
 xiaoyinya,小逸_nya,,;
-Lu0ck0y,李星灿,,犹豫小学生,;
+Elaina0919,忍者之神,e6e6fa,;
+Lu0ck0y,李星灿,,忧郁小学生;
 lr_xun,红中老大,,;
 MewsCat,MewsCat,,,2;
 shanhe,山河,ffc0cb,;
