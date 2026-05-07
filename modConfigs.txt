@@ -58,7 +58,6 @@ bilibilionly,流萤,7FFFD4,;
 jntothedeep,碧琪,ffe0f5,;
 SeriousChenWuji,正经的陈乌鸡,random,;
 lbaynaln,鲁布lbaynaln,FFB7C5,;
-maomin9527,柚子猫,33FFFF,;
 manbomanbo,不见星空,FFFFFF,;
 wujiarui,软萌兔兔酱,F0BBFF,;
 YZB_KAKAXI,玩偶姐姐,FFC0CB,;
