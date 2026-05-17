@@ -4,7 +4,7 @@
 原id,改id,颜色,称号;
 xiaoyinya,小逸_nya,,;
 Elaina0919,忍者之神,e6e6fa,;
-smilence,唐琪琦,FF00EF,天使人柱力;
+smilence,(天使人柱力)唐琪琦,FF00EF,;
 STRsnow,小逸_nya,,;
 maomin9527,秋月白,,秋白如烟;
 Az1974,「血翼魔教教主」古月方源,FF0000,;
