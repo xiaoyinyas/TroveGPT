@@ -14,6 +14,7 @@ hsiux,炸鸡,f08080,;
 Xiao_Xiao,笑笑,cc33ff,;
 lr_xun,红中老大,,;
 MewsCat,MewsCat,,,2;
+Tsk_Prime,凯德6号,0000ff,;
 qwqwanwan,晚晚,ffb7c5,;
 Masque1,柒沫,cc33ff,;
 shanhe,山河,ffc0cb,;
