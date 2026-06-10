@@ -17,6 +17,7 @@ _zhi_jiu_,执旧,8A2BE2,;
 temaoheishui,无论在哪,人与人都彼此相连,ffd700,;
 NaiGaiZi,奶盖子,33ffff,;
 liuyingyingle,霄九,87ceeb,;
+Light_Stewie,驴子,,,;
 HouraisanKaguya,蓬莱山辉夜,330099,;
 _SuMu_,牧牧,db7093,;
 Sunsines,河北,e6e6fa,;
