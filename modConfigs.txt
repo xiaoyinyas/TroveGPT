@@ -11,6 +11,8 @@ JackDream,沖田凜花Rinka,FF8800,;
 maomin9527,秋月白,,秋白如烟;
 Tying0317,漂洋,0000ff,;
 TraceUp,许嵩,ffff00,;
+Rsrec,暮雨,0000ff,;
+YIQINGSHI,「大爱盟 」情诗,F9DC24,;
 Az1974,「血翼魔教教主」古月方源,FF0000,;
 _kometa_,孤舟,,EH会长;
 _zhi_jiu_,执旧,8A2BE2,;
