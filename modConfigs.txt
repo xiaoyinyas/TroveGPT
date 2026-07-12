@@ -12,7 +12,7 @@ JackDream,沖田凜花Rinka,FF8800,;
 maomin9527,秋月白,,秋白如烟;
 yangjiabei,羊加倍,99bbff,;
 wangyou,忘忧,dc143c,;
-jiachou99,木头,0007ff,;
+jaychou99,木头,0007ff,;
 jingyinfengyu,静,87ceeb,;
 M3CHICKEN,长谷川枫,ffffff,;
 Tying0317,漂洋,00ffff,;
