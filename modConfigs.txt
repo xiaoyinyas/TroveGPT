@@ -515,7 +515,7 @@ _Momonga,飞鼠,,Overlord,,;
 zhuerchongjiutong,猪儿虫酒桶,random,元老玩家,;
 liuyunxi17,小拾柒,,;
 Chjthebeauty,忘儿The Cold,7FA8B8,;
-Nesperadoss,走不出的孤独是一种病,4d4def,辞夜;
+Nesperadoss,走不出的孤独是一种病,4d4dff,辞夜;
 Yun_Jiu,云玖玖,ff69b4,;
 shylie,默鱼,,;
 QYun,秋雲,fff100,;
