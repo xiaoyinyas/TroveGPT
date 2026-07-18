@@ -6,6 +6,7 @@ xiaoyinya,小逸_nya,,;
 Elaina0919,忍者之神,e6e6fa,;
 smilence,(天使人柱力)唐琪琦,FF00EF,;
 qiqi0807,琪琪,ff9900,;
+Bingyin,冰饮,99ffff,;
 Dafimofi,达菲,00bfff,;
 Cgeier,宇宙无敌金刚暴龙战士,00ffff,;
 shning_1,单宁酸,07FF16,;
