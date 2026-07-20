@@ -13,6 +13,7 @@ shning_1,单宁酸,07FF16,;
 cn1buceng,白哉,6a5acd,;
 nanieni,广东吴彦祖,800080,;
 STRsnow,小逸_nya,,;
+ZhouBaBao,粥八饱,FF69B4,;
 JackDream,沖田凜花Rinka,FF8800,;
 _Norus_,宋威龙,,;
 maomin9527,秋月白,,秋白如烟;
