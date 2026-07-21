@@ -75,7 +75,7 @@ yun_mian,云眠,00ffff,;
 yun_ann,云熙,00ffff,;
 Dubatianxia,独霸天下,40E0D0,;
 HouraisanKaguya,蓬莱山辉夜,3366cc,琉璃;
-temaoheishui,无论在哪,人与人都彼此相连,ffd700,;
+temaoheishui,无论在哪·人与人都彼此相连,ffd700,;
 NaiGaiZi,谎言可是一种至高无上的爱,ff3333,奶盖;
 liuyingyingle,霄九,87ceeb,;
 Light_Stewie,驴子,,,;
