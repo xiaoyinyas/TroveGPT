@@ -3,6 +3,15 @@
 |
 原id,改id,颜色,称号;
 xiaoyinya,小逸_nya,,;
+Fuurin_z,原神·空月之歌;
+eqwaaar,eq大王;
+AMBER77,安啵;
+ZMQH,迷迭香;
+da_cingming,珠珠小蛋糕;
+efafe,e仔;
+ChunYue,牛牛;
+iroda,王麻子;
+zhiling,炙灵;
 Elaina0919,忍者之神,e6e6fa,;
 smilence,(天使人柱力)唐琪琦,FF00EF,;
 qiqi0807,琪琪,ff9900,;
