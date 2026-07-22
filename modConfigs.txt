@@ -3,6 +3,7 @@
 |
 原id,改id,颜色,称号;
 xiaoyinya,小逸_nya,,;
+ChunYue,牛牛,00ff00,;
 Fuurin_z,原神·空月之歌,;
 eqwaaar,eq大王,;
 AMBER77,安啵,;
