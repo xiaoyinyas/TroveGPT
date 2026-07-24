@@ -21,7 +21,7 @@ gaoleng,高冷,,;
 Minerzz,zz,,;
 iroda,王麻子,;
 zhiling,炙灵,;
-Re_YNA,薯条,aaaa00,;
+Re_YNA,薯条,F7B500,;
 ziminwang2,籽岷,;
 LanNiu,懒牛,;
 Reborn2,逍遥,;
