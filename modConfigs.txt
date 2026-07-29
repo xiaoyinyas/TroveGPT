@@ -9,6 +9,8 @@ eqwaaar,eq大王,;
 AMBER77,安啵,;
 ZMQH,迷迭香,;
 __ZX__,墨墨,,破晓会长;
+kynne,捧花,ffc0cb,;
+Ethanim,梦毁,00ffff,;
 da_cingming,珠珠小蛋糕,;
 WuWang_,无妄,ffff00,;
 cxlmh,苦主,b8e9b8,;
