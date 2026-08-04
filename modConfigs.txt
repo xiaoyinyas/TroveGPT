@@ -10,6 +10,7 @@ AMBER77,安啵,,;
 Shawnxin,小新,98fb98,;
 xilan_hua,西兰花,,七里香管家;
 Zerozzz0,Z_零雨_Z,ee82ee,;
+sunshui,术术,ffc0cb,;
 NNNNNOMN,泡狐「篱」,FF6EC7,;
 IWenHan,城南下听雨,ffff00,;
 voscuid,Voscuid,ffffe0,Echoes;
