@@ -20,7 +20,7 @@ kynne,捧花,ffc0cb,;
 MO_NAI,莫奈,EE9EAD;
 loveMiku,辣舞米库,00ffff,;
 yeyul,漂白水,87cefa,;
-SSSStevie,史蒂夫,aaaa00,;
+SSSStevie,史蒂夫,F7B500,;
 GHOST_HUANG,可以给雨夜买个面包吗,FFB6C1;
 yuyu0731,塔鸽,00ff00,;
 Chang_wen,长温,;
