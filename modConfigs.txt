@@ -221,7 +221,7 @@ bilibili_xiaoxi,小西,,;
 tian_bian,天边,,;
 xiaotuzhenji,小涂真纪,dc143c,;
 BaiSama,白,ffa500,;
-kkxing,无忧,random,;
+kkxing,kkxing,ffd700,无忧;
 DPS_0,逢山水喜,,;
 yubulin,一条闲鱼,,;
 _Huimo_,灰馍,,;
