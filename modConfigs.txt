@@ -18,6 +18,7 @@ yuyu0731,塔鸽,00ff00,;
 26551,我勒个豆,d9afd9,;
 ZMQH,迷迭香,,;
 __ZX__,墨墨,,破晓会长;
+Mninnlunky,古晚夢,random,;
 kynne,捧花,ffc0cb,;
 MO_NAI,莫奈,EE9EAD;
 loveMiku,辣舞米库,00ffff,;
