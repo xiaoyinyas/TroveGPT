@@ -119,7 +119,7 @@ liuyingyingle,霄九,87ceeb,;
 Light_Stewie,驴子,,,;
 _SuMu_,牧牧,db7093,;
 Sunsines,河北,e6e6fa,;
-212longmao,212_龙猫,ffdd55,;
+212longmao,212_龙猫,,散人玩家;
 Lu0ck0y,李星灿,,忧郁小学生;
 xianqipiaopiaodejin,晚晚大王,,;
 7y2007,路明非,,;
