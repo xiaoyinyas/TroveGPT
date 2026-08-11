@@ -643,7 +643,7 @@ wwwzk,宁宁,ffff00,;
 Rdeamancy,佐助,9932cc,;
 AirTianZhao,晓俊,0000ff,;
 KairosOvO,886,ffc0cb,;
-LCy07,永雏塔菲,ffb7c5,;
+LCy07,塔菲,ffb7c5,宝藏第一糖;
 yikusuika,益呼,0000ff,;
 X104,男模,ff2400,;
 YANG__AWA,杨__AWA,,;
