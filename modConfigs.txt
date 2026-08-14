@@ -15,6 +15,7 @@ Zerozzz0,Z_零雨_Z,ee82ee,;
 sunshui,术术,ffc0cb,;
 NNNNNOMN,泡狐「篱」,FF6EC7,;
 IWenHan,城南下听雨,ffff00,;
+SuperYu,嘉木,002fa7,;
 liuchangqing,小魔帝,FFA500,;
 voscuid,Voscuid,ffffe0,Echoes;
 yuyu0731,塔鸽,00ff00,;
