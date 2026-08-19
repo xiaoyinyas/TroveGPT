@@ -17,6 +17,7 @@ ziyuOMO,玛卡巴卡,FF44AA,;
 Zerozzz0,Z_零雨_Z,ee82ee,;
 shanquanwanxiaoxi_6,山泉,a5f0dc,;
 xiawam,芙芙,0000ff,;
+reyna,薯条,,漩涡;
 wanla,詞,00ffff,;
 ling_luo,零落,00ffef,;
 mjqcjjr,马嘉祺,,时代少年团;
