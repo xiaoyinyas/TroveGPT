@@ -145,7 +145,7 @@ BlueValentine,蓝蔷薇,6495ed,;
 Xiao_Xiao,笑笑,cc33ff,;
 lr_xun,红中老大,,;
 MewsCat,MewsCat,,,2;
-Tsk_Prime,Tsk_Prime,99ff33,凯德6号;
+Tsk_Prime,Tsk_Prime,99ff33,凯德;
 qwqwanwan,晚晚,ffb7c5,;
 Masque1,柒沫,cc33ff,;
 shanhe,山河,ffc0cb,;
