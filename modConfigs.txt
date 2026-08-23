@@ -17,7 +17,7 @@ dhhsj,蒂蒂,00ffff,;
 fengyunnn,小鸟游星野,f4b1d4,;
 KBAnxin,一岁很帅的兔,98f5ff,;
 skywei,小蔚,ffb6c1,;
-lsmelll,B站芹菜味的橘猫,87ceeb,;
+lsmelll,B站芹菜味的橘猫,,;
 Zzzjw,观山听雨,3a0088,;
 shazhusiliao,枥川雪,add8e6,;
 miluoluo,耐克鲨鱼[艾莲],ffd700,;
