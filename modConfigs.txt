@@ -12,7 +12,7 @@ AMBER77,安啵,,;
 Shawnxin,小新,98fb98,;
 ZZephYrC,呋喃,b0c4de,;
 WindHush,林北,,我不是马魔;
-Xiao_Xiao,绯阙,99ff33,;
+Xiao_Xiao,绯阙,FF9326,;
 ss06538,ss06528,ffd700,摘星;
 dhhsj,蒂蒂,00ffff,;
 fengyunnn,小鸟游星野,f4b1d4,;
