@@ -7,6 +7,7 @@ ChunYue,牛牛,00ff00,;
 Fuurin_z,原神·空月之歌,;
 eqwaaar,eq大王,,;
 _zhiyuan,纸鸢,,;
+arounxmny,嘉豪下凡,ffff00,;
 AMBER77,安啵,,;
 Shawnxin,小新,98fb98,;
 ZZephYrC,呋喃,b0c4de,;
