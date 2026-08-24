@@ -16,7 +16,7 @@ duskpeaper,乐乐_dusk,8ba8c4,;
 ZZephYrC,呋喃,b0c4de,;
 Sa1oer,梅柳齐娜,7183c6,;
 WindHush,林北,,我不是马魔;
-Xiao_Xiao,绯阙,FF9326,;
+Xiao_Xiao,绯阙,800080,;
 ss06538,ss06528,ffd700,摘星;
 Sa1oer,梅柳齐娜,7183c6,;
 dhhsj,蒂蒂,00ffff,;
