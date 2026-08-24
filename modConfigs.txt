@@ -10,6 +10,7 @@ _zhiyuan,纸鸢,,;
 arounxmny,糖果,ffff00,;
 AMBER77,安啵,,;
 Shawnxin,小新,98fb98,;
+duskpeaper,乐乐_dusk,8ba8c4,;
 ZZephYrC,呋喃,b0c4de,;
 Sa1oer,梅柳齐娜,7183c6,;
 WindHush,林北,,我不是马魔;
