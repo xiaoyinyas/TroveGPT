@@ -110,7 +110,6 @@ na_nian_na_xia,夏天,,;
 TRuoYun,天青,,;
 _yileina_,依蕾娜,,;
 Canglei,EQ,,;
-Shallowsing,天月,,;
 UVW,超级萝莉控大王[UVW],,;
 D_luna,哇！是露娜神来了,,;
 lejj,李姜简,,;
