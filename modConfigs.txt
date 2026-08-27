@@ -12,6 +12,7 @@ baling,八零,000000,;
 arounxmny,糖果,ffff00,;
 AMBER77,安啵,,;
 _YiXiao_,一笑,abdffb,;
+Tsuki____,月绮,800080,;
 Shawnxin,小新,98fb98,;
 duskpeaper,乐乐_dusk,8ba8c4,;
 ZZephYrC,呋喃,b0c4de,;
