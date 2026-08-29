@@ -582,7 +582,7 @@ LAOWUMING,WuMing_无名,random,;
 Hang_King,小航QvQ,ffd700,;
 Demon_Zed,小航OvO,ffd700,;
 yunyi123,蕴意,ffff00,;
-MrDeng,邓邓,ffd700,;
+MrDeng,邓,ffd700,一劍霜寒十四洲;
 SIGUI,死鬼,00ff00,;
 JiaLeeeeee,鱼天帝,FBD26A,;
 liyafei_,李亚菲i,,火龙人柱力;
