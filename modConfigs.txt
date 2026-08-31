@@ -10,6 +10,7 @@ eqwaaar,eq大王,,;
 _zhiyuan,纸鸢,,;
 baling,八零,000000,;
 arounxmny,糖果,ffff00,;
+eastcutury,呆猫,5976ba,;
 AMBER77,安啵,,;
 yuniaoon,夏目蓝,00ffff,;
 _YiXiao_,一笑,abdffb,;
