@@ -21,6 +21,7 @@ zilla8420,古神Zila,c2e817,;
 JYdoufu,酱油豆腐,00ffff,;
 jiurizhipeizhe,jiurizhipeizhe,008000,旧日支配者;
 Shawnxin,小新,98fb98,;
+Blancees,男忧,1e90ff,;
 LouisVu1tton,(LV999)常记溪亭日暮,2ECC71,;
 coinilition,彩币,0066ff,馒头币;
 Fan__Chen,B站阮梅味的芹菜,,;
