@@ -188,7 +188,6 @@ nikokoword78,跳弾,F2DEB9,;
 RPG4444,艾莉莎,00ffff,;
 Elysiaaaa,爱莉希雅,FF6EC7,;
 AAAAADD,啊门,,;
-Fsi,桃子,ffc0cb,;
 Artoria_KS,音金大王,random,;
 61121905,君愿知,,;
 xiaoyan0213,小言,,;
