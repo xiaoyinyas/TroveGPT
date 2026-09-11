@@ -12,6 +12,8 @@ baling,八零,000000,;
 Cgeier,无敌逆天超级金刚暴龙战士,ff0033,大帅比;
 MaoBingOVO,猫饼,ffc0cb,阿黎;
 susuovo,苏苏,,;
+Satsuki_Rin,冴月麟,ff66cc,被遗忘的风与花;
+CCS_Shark,脆脆鲨,,白玉京会长;
 arounxmny,糖果,ffff00,;
 slssb,猫世界下大鱼,3399ff,;
 1584150,青桔,87CEFA;
