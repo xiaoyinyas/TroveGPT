@@ -45,7 +45,7 @@ duskpeaper,乐乐_dusk,8ba8c4,;
 ZZephYrC,呋喃,b0c4de,;
 Shallowsing,天月,77DDFF,傲慢的水龙王;
 Sa1oer,梅柳齐娜,7183c6,;
-WindHush,林北,,我不是马魔;
+WindHush,林北,,;
 Xiao_Xiao,绯阙,ffc0cb,;
 ss06528,ss06528,ffd700,摘星;
 Sa1oer,梅柳齐娜,7183c6,;
