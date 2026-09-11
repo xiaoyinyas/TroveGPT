@@ -7,7 +7,7 @@ xueyueXDDW,血月下的独舞,831c04,;
 ChunYue,牛牛,00ff00,;
 Fuurin_z,原神·空月之歌,;
 eqwaaar,eq大王,,;
-_zhiyuan,纸鸢,,;
+_zhiyuan,天堂中的告死鸟,ffc0cb,堇年纸鸢;
 baling,八零,000000,;
 Cgeier,无敌逆天超级金刚暴龙战士,ff0033,大帅比;
 MaoBingOVO,猫饼,ffc0cb,阿黎;
