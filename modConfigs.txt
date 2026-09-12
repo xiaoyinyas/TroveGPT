@@ -264,7 +264,6 @@ SpringWine,春酒,,SL会长;
 AMBER77,安啵,,;
 bilibili_xiaoxi,小西,,;
 DongXiang,Dog酱,,;
-Thexinghui,星辉,ff6699,;
 yubulin,一条闲鱼,,;
 Sad_Patato,伤心的番薯,,;
 xiaolele,小乐,FFC0CB,;
