@@ -24,7 +24,7 @@ Thexinghui,星辉,ff6699,怠惰之罪;
 anyoneguy,无名,,无法选中之人;
 AMBER77,安啵,,;
 wucidi,无敌,,;
-WRCHERQWQ,牢A,00ff00,;
+ARCHERQWQ,牢A,00ff00,;
 27dot,二十七画生,551a8b,;
 yuniaoon,夏目蓝,00ffff,;
 _YiXiao_,一笑,abdffb,;
