@@ -108,7 +108,6 @@ xnwxtn,ou的亲爹,,;
 TheThousand,千点啼痕,,;
 bgm0,不改名,,;
 gaoleng,高冷,,;
-27dot,二十七画生,,;
 Minerzz,zz,,;
 iroda,王麻子,,;
 zhiling,炙灵,,;
