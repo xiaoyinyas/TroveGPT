@@ -7,7 +7,7 @@ xueyueXDDW,血月下的独舞,831c04,;
 ChunYue,牛牛,00ff00,;
 Fuurin_z,原神·空月之歌,;
 eqwaaar,eq大王,,;
-guruiyang,小杨,ffd306,;
+guruiyang,小扬,ffd306,;
 _zhiyuan,天堂中的告死鸟,ffc0cb,堇年纸鸢;
 OmoyunO,墨韵,ff6699,;
 baling,八零,000000,;
