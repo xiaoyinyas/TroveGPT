@@ -25,7 +25,7 @@ CCS_Shark,脆脆鲨,,白玉京会长;
 arounxmny,糖果,ffff00,;
 slssb,猫世界下大鱼,3399ff,;
 1584150,青桔,87CEFA;
-jayus_Lee,小李Lee,86a886,;
+jayus_Lee,小李Lee,86a886,高专萌新;
 eastcutury,呆猫,5976ba,;
 Thexinghui,星辉,ff6699,怠惰之罪;
 anyoneguy,无名,,无法选中之人;
