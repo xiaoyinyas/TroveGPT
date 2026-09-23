@@ -7,6 +7,7 @@ xueyueXDDW,血月下的独舞,831c04,;
 ChunYue,牛牛,00ff00,;
 suishang,宏,C0C0C0,;
 hjhsgfc,佳,87CEEB,;
+wxhmyb.温惜禾.FF7F00,;
 Fuurin_z,原神·空月之歌,;
 eqwaaar,eq大王,,;
 guruiyang,小扬,ffd306,;
