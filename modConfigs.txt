@@ -15,6 +15,8 @@ _zhiyuan,天堂中的告死鸟,ffc0cb,堇年纸鸢;
 __MoBei__,林夕梦,00ffff,;
 OmoyunO,墨韵,ff6699,;
 baling,八零,000000,;
+lovegive,伞遮半生尘,dc143c,;
+SBPP,大帅皮,ff00ff,;
 Cgeier,无敌逆天超级金刚暴龙战士,ff0033,大帅比;
 54bbw,清风·威猛先生,9F35FF;
 printx,喜恶同因-瑕瑜互见,3366cc,悲剧舞台上的她;
