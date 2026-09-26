@@ -12,6 +12,7 @@ Fuurin_z,原神·空月之歌,;
 eqwaaar,eq大王,,;
 guruiyang,小扬,ffd306,;
 _zhiyuan,天堂中的告死鸟,ffc0cb,堇年纸鸢;
+__MoBei__,林夕梦,00ffff,;
 OmoyunO,墨韵,ff6699,;
 baling,八零,000000,;
 Cgeier,无敌逆天超级金刚暴龙战士,ff0033,大帅比;
