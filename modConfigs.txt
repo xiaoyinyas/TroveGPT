@@ -10,6 +10,7 @@ hjhsgfc,佳,87CEEB,;
 wxhmyb,温惜禾,FF7F00,;
 _Cecilia_,橘子o.O,FFD700,轮回;
 Fuurin_z,原神·空月之歌,;
+OrangeGao,奥润橘,FFC125;
 eqwaaar,eq大王,,;
 guruiyang,小扬,ffd306,;
 __Zx__,天秤座向右倾斜45º的善良人格,3366cc,墨墨;
