@@ -31,6 +31,7 @@ Cgeier,无敌逆天超级金刚暴龙战士,ff0033,大帅比;
 printx,喜恶同因-瑕瑜互见,3366cc,悲剧舞台上的她;
 wanghuiyan,王慧妍,ff3399,;
 Sun_Flowers,太阳花,FFD166,;
+HSXOct,大懒觉,FF8C00;
 Guga_JamDaz,涨姿势吖大酱,FFC285,;
 Amhong,璃夏,4EEE94;
 ZhuBiTong,猪鼻桶,,元老玩家;
