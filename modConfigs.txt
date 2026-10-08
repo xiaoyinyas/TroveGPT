@@ -207,7 +207,6 @@ Sunsines,河北,e6e6fa,;
 212longmao,212_龙猫,,散人玩家;
 Lu0ck0y,李星灿,,忧郁小学生;
 xianqipiaopiaodejin,晚晚大王,,;
-7y2007,路明非,,;
 BlueValentine,蓝蔷薇,6495ed,;
 lr_xun,红中老大,,;
 MewsCat,MewsCat,,,2;
