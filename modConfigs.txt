@@ -12,6 +12,7 @@ miaoneiga,喵内嘎,,喵喵喵喵喵喵喵喵;
 _Cecilia_,橘子o.O,FFD700,轮回;
 Fuurin_z,原神·空月之歌,;
 74u,望舒,87ceeb,;
+get_lost,暖冬,ffd306,;
 OrangeGao,奥润橘,FFC125;
 eqwaaar,eq大王,,;
 cxlmh,石镜悠斗,B8E9B8,;
