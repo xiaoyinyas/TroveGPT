@@ -15,6 +15,7 @@ Myrthvyrin,小花生,ffa500,;
 Fuurin_z,原神·空月之歌,;
 74u,望舒,87ceeb,;
 get_lost,暖冬,ffd306,;
+XIANHAI,霰海,FF00FF;
 _OrangeCat_,不关橙猫猫的事,FFA500;
 SaySea,不早说是長青,07267A,;
 OrangeGao,奥润橘,FFC125;
