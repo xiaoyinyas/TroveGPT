@@ -11,6 +11,8 @@ wxhmyb,温惜禾,FF7F00,;
 Guga_JamDaz,涨姿势吖大酱,F85208;
 miaoneiga,喵内嘎,,喵喵喵喵喵喵喵喵;
 _Cecilia_,橘子o.O,FFD700,轮回;
+_Nidhogg_,尼德霍格,6c3365,;
+boqin,流萤,3ba595,;
 Myrthvyrin,小花生,ffa500,;
 Fuurin_z,原神·空月之歌,;
 74u,望舒,87ceeb,;
