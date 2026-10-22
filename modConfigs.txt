@@ -74,7 +74,7 @@ Tsuki____,月绮,ffc0cb,;
 Nesperados,Nesperados,4D4DFF,辞夜;
 zilla8420,古神Zila,c2e817,;
 Z_xuyan,绪宴,8aaee0,;
-JYdoufu,酱油豆腐,00ffff,;
+JYdoufu,忧郁的酱油,00ffff,豆腐;
 jiurizhipeizhe,陈浔,ffd306,旧日;
 Shawnxin,小新,98fb98,;
 Blancees,男优,1e90ff,;
