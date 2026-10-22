@@ -16,6 +16,7 @@ _Nidhogg_,尼德霍格,6c3365,;
 fy000,黑鸟_Fyna,ffff00,;
 ggggg1,卡比兽,DAA520;
 boqin,流萤,3ba595,;
+Marsj,徐柒,ffd700,;
 Myrthvyrin,小花生,ffa500,;
 Fuurin_z,原神·空月之歌,;
 74u,望舒,87ceeb,;
