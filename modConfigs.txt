@@ -21,6 +21,7 @@ Marxj,徐柒,ffd700,;
 Myrthvyrin,小花生,ffa500,;
 Fuurin_z,原神·空月之歌,;
 74u,望舒,87ceeb,;
+cyj111,仙弑,9999ff,;
 _JiuYue_,玖玥,33FFDD,触碰天条转生成福利姬;
 get_lost,暖冬,ffd306,;
 XIANHAI,霰海,FF00FF;
