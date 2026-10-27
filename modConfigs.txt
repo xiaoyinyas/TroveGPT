@@ -23,7 +23,7 @@ Fuurin_z,原神·空月之歌,;
 74u,望舒,87ceeb,;
 cyj111,仙弑,9999ff,;
 _JiuYue_,玖玥,33FFDD,触碰天条转生成福利姬;
-get_lost,暖冬,ffd306,;
+get_lost,暖冬,ffd306,蜉蝣;
 XIANHAI,霰海,FF00FF;
 _OrangeCat_,不关橙猫猫的事,FFA500;
 SaySea,不早说是長青,07267A,;
