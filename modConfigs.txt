@@ -8,6 +8,7 @@ ChunYue,牛牛,00ff00,;
 suishang,宏,C0C0C0,;
 hjhsgfc,佳,87CEEB,;
 wxhmyb,温惜禾,FF7F00,;
+IceRin,冰激凛凛凛,bbffff;
 Guga_JamDaz,涨姿势吖大酱,F85208;
 ywxjx,音无结弦弦,FF1493;
 QingLuan,꧁青鸾꧂,33FFFF;
