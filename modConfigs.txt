@@ -146,7 +146,6 @@ Seven_An,七安Ovo,FF1493,猫咪;
 Ethanim,梦毁,00ffff,;
 da_cingming,珠珠小蛋糕,;
 WuWang_,无妄,ffff00,;
-cxlmh,苦主,b8e9b8,;
 GZW123,幸运,ffd700,;
 WUJING,果汁,ffaa33,果汁;
 efafe,e仔,,;
