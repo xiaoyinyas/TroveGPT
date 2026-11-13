@@ -10,6 +10,8 @@ Moluan,貊鸾,33FFFF;
 suishang,宏,C0C0C0,;
 hjhsgfc,佳,87CEEB,;
 wxhmyb,温惜禾,FF7F00,;
+Zhuang520,凉皮,87CEEB;
+Licntious_OvO,野人,800080,油条斩八方;
 Nick_Fox06,狐狸,random,;
 IceRin,冰激凛凛凛,bbffff;
 Satsuki_Rin,Satsuki_Rin,ff66cc,琉璃;
