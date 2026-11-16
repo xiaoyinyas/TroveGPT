@@ -11,6 +11,7 @@ suishang,宏,C0C0C0,;
 hjhsgfc,佳,87CEEB,;
 Yezi_god,椰子_God,FFD700;
 wxhmyb,温惜禾,FF7F00,;
+_jushen_,橘子,FFD700,轮回;
 Zhuang520,凉皮,87CEEB;
 Licntious_OvO,野人,800080,油条斩八方;
 Nick_Fox06,狐狸,FF7F00,;
