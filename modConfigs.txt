@@ -6,6 +6,7 @@ xiaoyinya,小逸_nya,,;
 xueyueXDDW,血月下的独舞,831c04,;
 ChunYue,牛牛,00ff00,;
 QIngYuze,清泽,33FFFF;
+SwanRequiem,天鹅挽歌,FF8C94;
 Moluan,貊鸾,33FFFF;
 suishang,宏,C0C0C0,;
 ysansize,鳕鱼昂,8a2be2;
