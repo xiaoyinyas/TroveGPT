@@ -8,6 +8,7 @@ ChunYue,牛牛,00ff00,;
 QIngYuze,清泽,33FFFF;
 Moluan,貊鸾,33FFFF;
 suishang,宏,C0C0C0,;
+ysansize,鳕鱼昂,8a2be2;
 hjhsgfc,佳,87CEEB,;
 Yezi_god,椰子_God,FFD700;
 wxhmyb,温惜禾,FF7F00,;
