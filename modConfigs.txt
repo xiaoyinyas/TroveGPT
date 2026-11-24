@@ -5,6 +5,7 @@
 xiaoyinya,小逸_nya,,;
 xueyueXDDW,血月下的独舞,831c04,;
 ChunYue,牛牛,00ff00,;
+LitteGhost,尸鬼,bc13fe;
 QIngYuze,清泽,33FFFF;
 ZJing,艾斯卡诺,ff69b4,年年景不改;
 SwanRequiem,天鹅挽歌,FF8C94;
