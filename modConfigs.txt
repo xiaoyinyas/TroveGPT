@@ -12,6 +12,7 @@ SwanRequiem,天鹅挽歌,FF8C94;
 Moluan,貊鸾,33FFFF;
 suishang,宏,C0C0C0,;
 Wo_ZiBuxiu,猪猪,160059,忧郁的猪猪王;
+xiao_qing_yi,小青衣,6BC6C7;
 ysansize,鳕鱼昂,8a2be2;
 hjhsgfc,佳,87CEEB,;
 Yezi_god,椰子_God,FFD700;
