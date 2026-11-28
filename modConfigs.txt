@@ -18,6 +18,7 @@ hjhsgfc,佳,87CEEB,;
 Yezi_god,椰子_God,FFD700;
 ninghaoch,东海帝皇,00ffff;
 cangbb,灿白,8000FF;
+Ningf,NingF,,十年老登;
 meizhu,妹猪,ff0099;
 SwanRequiem,天鹅挽歌,ff8c94;
 Squirtle_,年,00cccc,huamanlow会长;
