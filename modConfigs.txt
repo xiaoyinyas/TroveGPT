@@ -19,6 +19,8 @@ Yezi_god,椰子_God,FFD700;
 ninghaoch,东海帝皇,00ffff;
 cangbb,灿白,8000FF;
 meizhu,妹猪,ff0099;
+SwanRequiem,天鹅挽歌,ff8c94;
+Squirtle_,年,00cccc,huamanlow会长;
 wxhmyb,温惜禾,FF7F00,;
 _jushen_,橘子,FFD700,轮回;
 Zhuang520,凉皮,87CEEB;
