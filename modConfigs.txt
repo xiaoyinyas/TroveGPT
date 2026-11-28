@@ -8,6 +8,7 @@ ChunYue,牛牛,00ff00,;
 LitteGhost,尸鬼,bc13fe;
 QIngYuze,清泽,33FFFF;
 ZJing,艾斯卡诺,ff69b4,年年景不改;
+Dkoutstei,人神Hitogami,,喵;
 SwanRequiem,天鹅挽歌,FF8C94;
 Moluan,貊鸾,33FFFF;
 suishang,宏,C0C0C0,;
